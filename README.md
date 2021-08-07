@@ -13,3 +13,13 @@ The dashboard is developed in PowerBi and analyzes the daily data provided by th
  - https://github.com/pcm-dpc/COVID-19
  - https://github.com/italia/covid19-opendata-vaccini
 
+# Dashboards overview
+<div align="center">
+<img src="dash1.png" >
+</div>
+<div align="center">
+<img src="dash2.png">
+</div>
+<div align="center">
+<img src="dash3.png">
+</div>
