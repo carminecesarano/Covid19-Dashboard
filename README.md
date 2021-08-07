@@ -1,4 +1,5 @@
-# covid19_dashboard
+<h1 align="center">Covid-19 Open Dashboard</h1>
+
 Development and implementation of a dashboard for covid data analysis in Italy. 
 
 # Motivations
