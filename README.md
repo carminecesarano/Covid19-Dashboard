@@ -17,9 +17,11 @@ The dashboard is developed in PowerBi and analyzes the daily data provided by th
 <div align="center">
 <img src="dash1.png" >
 </div>
+<br />
 <div align="center">
 <img src="dash2.png">
 </div>
+<br />
 <div align="center">
 <img src="dash3.png">
 </div>
